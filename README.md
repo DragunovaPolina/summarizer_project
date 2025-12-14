@@ -22,16 +22,6 @@ Technologies Used
  • PyInstaller
  • Inno Setup
 
-Project Structure
-
-summarizer_project/
-├── app.py
-├── download_model.py
-├── DejaVuSans.ttf
-├── model/
-│   └── (local NLP model files)
-└── setup_script.iss
-
 Installation
 Option 1: Windows Installer
  1 Download the installer (TextSummarizer_Installer.exe)
