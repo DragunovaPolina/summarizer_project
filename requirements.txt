@@ -1,0 +1,6 @@
+torch
+transformers
+python-docx
+fpdf
+PyPDF2
+tk
